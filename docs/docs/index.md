@@ -3,6 +3,7 @@
 ![Django Ninja](img/hero.png)
 
 Django Ninja is a web framework for building APIs with Django and Python 3.6+ type hints.
+Django Ninja是一个基于Django和Python 3.6+的类型提示构建API而成的web框架
 
 Key features:
 
